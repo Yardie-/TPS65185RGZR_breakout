@@ -20,7 +20,7 @@ So you can just go to easyeda.com and login with the same credentials.
 
 ### Gerbers
 
-[JLCPCB compatible gerber] (./gerbers/Gerber_PCB_TPS65185RGZR_breakout.zip)
+[JLCPCB compatible gerber](./gerbers/Gerber_PCB_TPS65185RGZR_breakout.zip)
 
 ### Schematic
 
