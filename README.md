@@ -10,21 +10,19 @@ It is designed for the 7x7mm TPS65185RGZR.
 
 ### EasyEDA files
 
-Save the json files locally then open them EasyEDA editor as EasyEDA files.
-
-If you already purchase stuff from LCSC you already have an EasyEDA account.
-
-So you can just go to easyeda.com and login with the same credentials.  
- * open the web based easyeda editor 
- * under -->file -->open--> EasyEDA and find the local json files.
- * you should be able to just open them without importing the libs.
-
-You can just download these files. Just follow the link and right click the Downoad button and save target as.
-
 [EasyEDA PCB](./easyeda/TPS65185RGZR_breakout/PCB_TPS65185RGZR_breakout.json)
 
 [EasyEDA Schematic](./easyeda/TPS65185RGZR_breakout/TPS65185RGZR_breakout.json)
 
+You can just download these files. 
+ * Just follow the link and right click the Downoad button and save target as.
+ * open the web based or local easyeda editor 
+ * under -->file -->open--> EasyEDA open the locally saved json files.
+ * you should be able to just open them without importing the libs.
+
+If you already purchase stuff from LCSC you already have an EasyEDA account.
+
+So you can just go to easyeda.com and login with the same credentials.  
 
 ### Gerbers
 
