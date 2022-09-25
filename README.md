@@ -17,8 +17,9 @@ If you already purchase stuff from LCSC you already have an EasyEDA account.
 So you can just go to easyeda.com and login with the same credentials.  
  * open the web based easyeda editor 
  * under -->file -->open--> EasyEDA and find the local json files.
+ * you should be able to just open them without importing the libs.
 
-You can just download these files. Just right click and save target as.
+You can just download these files. Just follow the link and right click the Downoad button and save target as.
 
 [EasyEDA PCB](./easyeda/TPS65185RGZR_breakout/PCB_TPS65185RGZR_breakout.json)
 
