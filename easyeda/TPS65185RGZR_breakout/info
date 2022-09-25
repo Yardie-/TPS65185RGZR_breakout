@@ -4,7 +4,7 @@
   "name": "TPS65185RGZR_breakout",
   "content": "epdiy board based on epdiy v6 with all pins direct to epd or TP65185 (with optional connection to the PCA9555).\nUsing the 7x7mm TPS65185RGZR and optionally the PCA9555.",
   "created_at": "2022-06-03 17:31:49",
-  "updated_at": "2022-09-25 12:20:01",
+  "updated_at": "2022-09-25 12:33:10",
   "stick": "",
   "documents": [
     {
@@ -441,8 +441,8 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "17eda053266b4cdca86c67384ca2b6c2": 1,
-        "841d0ea1f0ef40b7ab7264a3e09d7c9b": 1,
         "a249de7d161d4ae894913a5559e361f0": 1,
+        "841d0ea1f0ef40b7ab7264a3e09d7c9b": 1,
         "f8151fdc728a41ebbc304e11d39e5437": 6,
         "398691f1f785460098bbe5ee6590333c": 16,
         "b23a3cd50ffb4bd580712ba1d52d77dd": 1,
@@ -462,11 +462,11 @@
           "CustomPara"
         ]
       ],
-      "updateTime": 1664079601,
+      "updateTime": 1664080390,
       "createTime": 1654589831,
       "histories": [],
       "created_at": "2022-06-07 16:17:11",
-      "updated_at": "2022-09-25 12:20:01"
+      "updated_at": "2022-09-25 12:33:10"
     }
   ],
   "sort": [

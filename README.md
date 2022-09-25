@@ -8,6 +8,12 @@ or as in V6 boards connection to the TPS65185 via I2c with the PCA9555/PCA9535.
 
 It is designed for the 7x7mm TPS65185RGZR.
 
+### 3D
+![3D](./images/3d.png)
+
+### Layout
+![top side](./images/top.png)
+
 ### EasyEDA files
 
 [EasyEDA PCB](./easyeda/TPS65185RGZR_breakout/PCB_TPS65185RGZR_breakout.json)
